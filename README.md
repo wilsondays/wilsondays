@@ -1,4 +1,4 @@
-## Opa, pode me chamar de will (estou trabalando na montagem desse perfil ainda...)
+## Opa, pode me chamar de will (estou trabalhando na montagem desse perfil ainda...)
 
 <!--
 **P0L0-WIL/P0L0-WIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
