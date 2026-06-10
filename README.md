@@ -18,16 +18,6 @@ Acredito que cada projeto é uma oportunidade de crescimento e aprendizado. Meu 
 
 ---
 
-## 🎓 Formação
-
-* 📚 Tecnólogo em Informática para Negócios — FATEC SBC
-* 📋 Técnico em Administração — ETEC Parque Belém
-* 🚀 Instituto PROA (Concluído)
-* 🌟 Programa Pulse Mais
-* 🤖 Curso de Inteligência Artificial — Instituto Percorre
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -43,30 +33,6 @@ Acredito que cada projeto é uma oportunidade de crescimento e aprendizado. Meu 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge\&logo=microsoft-office\&logoColor=white)
-
----
-
-## 📈 Atualmente
-
-✅ Cursando Informática para Negócios
-
-✅ Participando do Pulse Mais
-
-✅ Desenvolvendo projetos web
-
-✅ Aprimorando JavaScript
-
-✅ Construindo meu Career Portfolio
-
----
-
-## 🎯 Objetivos
-
-* Conseguir uma oportunidade de estágio em tecnologia
-* Evoluir como Desenvolvedor Full Stack
-* Aprimorar meu inglês
-* Desenvolver projetos com impacto real
-* Conectar gestão e tecnologia na minha carreira
 
 ---
 
