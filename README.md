@@ -1,75 +1,24 @@
-<h1 data-importer="text" align="center">Olá! 👋 Sou Wilson Carlos</h1>
+# 💫 About Me:
+Sou apaixonado por gestão e tecnologia. Minha trajetória começou em Administração, onde desenvolvi conhecimentos em organização, planejamento e processos. Ao conhecer o universo do design e da programação, descubra o quanto gosto de criar soluções que sejam criativas e lógicas.<br><br>Atualmente, curso Informática para Negócios na FATEC São Bernardo do Campo e participante do programa Pulse Mais, experiências que ampliam minhas habilidades técnicas, profissionais e minha visão sobre o impacto da tecnologia no dia a dia das pessoas.<br><br>Acredito que cada projeto é uma oportunidade de crescimento e aprendizado. Meu objetivo é me tornar um profissional capaz de conectar negócios e tecnologia para transformar ideias em resultados, sempre com dedicação, curiosidade e vontade de evoluir.
 
-###
 
-<h3 data-importer="text" align="left">💻 Estudante de Informática para Negócios na FATEC SBC 🚀 Participante do Programa Pulse Mais 🏗️ Jovem Aprendiz na Direcional Engenharia 🎯 Apaixonado por Tecnologia, Gestão e Inovação</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thewilldays/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wilsoncarlosfmdias/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srcarlos928@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=wilsondays&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=wilsondays&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=wilsondays&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wilsondays&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h2 data-importer="text" align="left">🚀 Sobre Mim</h2>
+---
+[![](https://komarev.com/ghpvc/?username=wilsondays&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p data-importer="text" align="left">Sou apaixonado por gestão e tecnologia. Minha trajetória começou na Administração, onde desenvolvi conhecimentos em organização, planejamento e processos. Ao conhecer o universo do design e da programação, descubri o quanto gosto de criar soluções que sejam criativas e lógicas.<br><br>Atualmente, curso Informática para Negócios na FATEC São Bernardo do Campo e participante do programa Pulse Mais, experiências que ampliam minhas habilidades técnicas, profissionais e minha visão sobre o impacto da tecnologia no dia a dia das pessoas.<br><br>Acredito que cada projeto é uma oportunidade de crescimento e aprendizado. Meu objetivo é me tornar um profissional capaz de conectar negócios e tecnologia para transformar ideias em resultados, sempre com dedicação, curiosidade e vontade de evoluir.</p>
-
-###
-
-<h2 data-importer="text" align="left">Status</h2>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/wilsondays/wilsondays/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/wilsondays/wilsondays/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p data-importer="text" align="left">⭐ Sempre buscando aprender, evoluir e transformar ideias em soluções através da tecnologia.</p>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wilsondays/wilsondays/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wilsondays/wilsondays/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wilsondays/wilsondays/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/wilsoncarlosfmdias" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
-  <a href="wilsoncarlos328@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
-  </a>
-  <a href="https://wilsondays.github.io/mapadecarreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="devto logo"  />
-  </a>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
