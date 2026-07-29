@@ -1,3 +1,12 @@
+<h1 data-importer="text" align="center">Olá! 👋 Sou Wilson Carlos</h1>
+
+###
+
+<h3 data-importer="text" align="left">💻 Estudante de Informática para Negócios na FATEC SBC 🚀 Participante do Programa Pulse Mais 🏗️ Jovem Aprendiz na Direcional Engenharia 🎯 Apaixonado por Tecnologia, Gestão e Inovação</h3>
+
+###
+
+
 # 💫 About Me:
 Sou apaixonado por gestão e tecnologia. Minha trajetória começou em Administração, onde desenvolvi conhecimentos em organização, planejamento e processos. Ao conhecer o universo do design e da programação, descubra o quanto gosto de criar soluções que sejam criativas e lógicas.<br><br>Atualmente, curso Informática para Negócios na FATEC São Bernardo do Campo e participante do programa Pulse Mais, experiências que ampliam minhas habilidades técnicas, profissionais e minha visão sobre o impacto da tecnologia no dia a dia das pessoas.<br><br>Acredito que cada projeto é uma oportunidade de crescimento e aprendizado. Meu objetivo é me tornar um profissional capaz de conectar negócios e tecnologia para transformar ideias em resultados, sempre com dedicação, curiosidade e vontade de evoluir.
 
